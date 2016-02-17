@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ekeen4@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Health Summary",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Health Summary",
+    "uuid": "00f20d4e-5b29-47aa-a8cf-3184e1e1464a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
